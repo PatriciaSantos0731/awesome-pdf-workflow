@@ -4,15 +4,15 @@
 
 ## Contents
 
-- PDF Editors
-- AI-Powered PDF Tools
-- OCR Tools
-- Open-Source PDF Tools
-- PDF Compression Tools
-- Adobe Acrobat Alternatives
-- Document Workflow Trends
-- Resources
-- Contributing
+- [PDF Editors](#pdf-editors)
+- [AI-Powered PDF Tools](#ai-powered-pdf-tools)
+- [OCR Tools](#ocr-tools)
+- [Open-Source PDF Tools](#open-source-pdf-tools)
+- [PDF Compression Tools](#pdf-compression-tools)
+- [Adobe Acrobat Alternatives](#adobe-acrobat-alternatives)
+- [Document Workflow Trends in 2026](#document-workflow-trends-in-2026)
+- [Resources](#resources)
+- [Contributing](#contributing)
 
 
 ## Why PDF Workflow Matters
