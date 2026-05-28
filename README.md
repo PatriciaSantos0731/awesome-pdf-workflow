@@ -33,7 +33,7 @@ This repository collects practical PDF workflow tools for individuals, teams, an
 
 # PDF Editors
 
-| Tool          | Core Features                                                                                               | Platform               | Pricing           |
+| Tool                 | Core Features                                                                                               | Platform               | Pricing           |
 | ------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------- |
 | Adobe Acrobat | Enterprise PDF management, cloud collaboration, advanced security, and e-signature workflows                | Windows / Mac          | Paid Subscription |
 | Foxit PDF     | Professional PDF editing, annotation, forms, and team collaboration tools                                   | Windows / Mac          | Freemium / Paid   |
