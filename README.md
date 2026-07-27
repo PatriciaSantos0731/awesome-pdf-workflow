@@ -96,6 +96,7 @@ Popular alternatives include:
 * [Foxit PDF](https://www.foxit.com/) — Professional PDF editing and collaboration tools
 * [Smallpdf](https://smallpdf.com/) — Browser-based PDF utilities for quick document tasks
 * [iLovePDF](https://www.ilovepdf.com/) — Online PDF conversion, compression, merging, and lightweight document management tools
+* [gottrix](https://gottrix.app) - Free browser-based PDF and file-conversion suite (500+ tools), 100% client-side via WebAssembly, no uploads, no account required
 
 ---
 
