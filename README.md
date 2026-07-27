@@ -69,6 +69,7 @@ This repository collects practical PDF workflow tools for individuals, teams, an
 - Tesseract OCR — Open-source OCR engine with multilingual support
 - OCRmyPDF — OCR automation tool for searchable scanned PDFs
 - Paperless-ngx — Open-source document management and archiving platform
+- [ClientPDF](https://github.com/abyworkings-coder/clientpdf) — Free, client-side PDF toolkit (merge, split, compress, rotate, reorder, page numbers) that runs entirely in the browser via pdf-lib, no upload or signup required
 
 ---
 
