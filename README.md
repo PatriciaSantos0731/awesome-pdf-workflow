@@ -60,6 +60,7 @@ This repository collects practical PDF workflow tools for individuals, teams, an
 - Google Document AI — Cloud-based OCR and structured document data extraction platform
 - Tesseract OCR — Open-source OCR engine with multilingual text recognition support
 - OCRmyPDF — OCR automation tool for searchable scanned PDF documents
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 만화 리더는 만화 이미지와 PDF의 문자를 인식하고 개인에게 일괄·맞춤 번역을 제공합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기를 사용하며, 사용자는 API를 개인 작업 흐름에 연결합니다. 제품은 지원하는 모든 번역 언어를 제공합니다. Web/API · Freemium.
 
 ---
 
