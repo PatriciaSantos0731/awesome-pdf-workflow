@@ -56,6 +56,8 @@ This repository collects practical PDF workflow tools for individuals, teams, an
 
 # OCR Tools
 
+- [Doc2X](https://doc2x.noedgeai.com/) — Cloud PDF/image OCR with formula/table recognition and Word/Markdown/LaTeX export; account-based limited free parsing, paid upgrades and separately billed API.
+
 - ABBYY FineReader — High-accuracy commercial OCR software for professional document digitization
 - Google Document AI — Cloud-based OCR and structured document data extraction platform
 - Tesseract OCR — Open-source OCR engine with multilingual text recognition support
