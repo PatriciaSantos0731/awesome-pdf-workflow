@@ -65,6 +65,7 @@ This repository collects practical PDF workflow tools for individuals, teams, an
 
 # Open-Source PDF Tools
 
+- [Glim](https://github.com/NeoPanic/Glim) — Free, MIT-licensed macOS file viewer for reading PDFs alongside Markdown, source code, and data files; PDF previews are read-only.
 - Stirling PDF — Open-source self-hosted PDF processing toolkit
 - Tesseract OCR — Open-source OCR engine with multilingual support
 - OCRmyPDF — OCR automation tool for searchable scanned PDFs
