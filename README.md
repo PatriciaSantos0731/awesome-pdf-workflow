@@ -96,6 +96,7 @@ Popular alternatives include:
 * [Foxit PDF](https://www.foxit.com/) — Professional PDF editing and collaboration tools
 * [Smallpdf](https://smallpdf.com/) — Browser-based PDF utilities for quick document tasks
 * [iLovePDF](https://www.ilovepdf.com/) — Online PDF conversion, compression, merging, and lightweight document management tools
+* [PDF Fan — inserir páginas em PDF](https://pdf.fan/pt-br/inserir-paginas-pdf/) — Free Brazilian Portuguese tool for inserting selected pages from another PDF or blank pages into an existing document. The browser handles the source PDFs, and no account is required.
 
 ---
 
